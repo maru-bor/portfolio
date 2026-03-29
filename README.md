@@ -4,3 +4,4 @@ Below are links to my various project repositories. This repository will be upda
  - [Library Management System](https://github.com/maru-bor/library_management_system)(README, documentation and test cases are in Czech)
  - [P2P Bank Project](https://github.com/maru-bor/p2p_bank)
  - [ML/AI project](https://github.com/maru-bor/ai_project)
+ - [Desktop Drawing Application](https://github.com/maru-bor/drawing_app)
